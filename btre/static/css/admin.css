@@ -1,0 +1,33 @@
+#header {
+    height: 60px;
+    background: #283E60;
+    color: #fff;
+}
+
+h1#head {
+    color: #fff;
+    
+}
+
+a:link,
+a:visited{
+    color: #283E60;
+}
+
+div.breadcrumbs{
+    background: #30caa0;
+    color: #283E60;
+}
+
+div.breadcrumbs a{
+    color: #333;
+}
+
+.module h2, .module caption, .inline-group h2{
+    background: #30caa0;
+}
+
+input[type=submit].default, .submit-row input.default{
+    background: #283E60;
+    color: #fff;
+}

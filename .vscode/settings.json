@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "workbench.editorAssociations": [
+    
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#1D1F27",
+        "tab.activeBackground": "#442d2d",
+        "sideBar.background": "#1D1F27",
+        "editor.background": "#1D1F27",
+       //"contrastBorder": "#16161C"
+    }
+}
